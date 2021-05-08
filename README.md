@@ -76,12 +76,13 @@ From the real life demographic data provided by Arvato Financials, we have been 
 Final model was able to reach >80% score on the test set. Screenshot from leader board at the time of submission;
 ![Main Page](Images/KaggleSubmission.png)
 
+### Github Link:
+https://github.com/mustafasubasi83
 
-
-## Medium Link :
+### Medium Link:
 https://msub83.medium.com/who-is-become-a-customer-36797f56825c
 
-## Kaggle Leaderboard :
+### Kaggle Leaderboard:
 https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard
 
 
