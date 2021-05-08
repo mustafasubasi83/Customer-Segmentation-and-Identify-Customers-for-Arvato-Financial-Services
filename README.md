@@ -83,3 +83,8 @@ https://msub83.medium.com/who-is-become-a-customer-36797f56825c
 
 ## Kaggle Leaderboard :
 https://www.kaggle.com/c/udacity-arvato-identify-customers/leaderboard
+
+
+### Requirements
+
+All of the requirements are given in requirements.txt. To install Run: pip install -r requirements.txt
